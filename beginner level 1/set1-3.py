@@ -1,5 +1,5 @@
 a =raw_input("Enter a character: ")
-if a in('a','e','i','o','u')
- print("vowels")
+if a in('a','e','i','o','u'):
+ print("Vowel")
 else:
- print("consonants")
+ print("Consonant")
