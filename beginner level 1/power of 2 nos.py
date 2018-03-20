@@ -1,3 +1,4 @@
-y=int(input())
-x=int(input())
-print(y**x)
+y,x=raw_input().split()
+y=int(y)
+x=int(x)
+print y**x
