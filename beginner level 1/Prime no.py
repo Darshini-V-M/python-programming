@@ -7,4 +7,4 @@ if num > 1:
    else:
        print("yes")
 else:
-   print(num,"No")
+   print(num,"no")
