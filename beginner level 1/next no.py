@@ -1,3 +1,3 @@
 a=int(raw_input())
-c=a+1
-print c
+k=a+1
+print k
