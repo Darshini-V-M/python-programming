@@ -1,23 +1,23 @@
 x=int(raw_input())
 if(x==1):
-	print('one')
+	print('One')
 elif(x==2):
-	print('two')
+	print('Two')
 elif(x==3):
-	print('three')	
+	print('Three')	
 elif(x==4):
-	print('four')
+	print('Four')
 elif(x==5):
-	print('five')
+	print('Five')
 elif(x==6):
-	print('six')
+	print('Six')
 elif(x==7):
-	print('seven')
+	print('Seven')
 elif(x==8):
-	print('eight')	
+	print('Eight')	
 elif(x==9):
-	print('nine')	
+	print('Nine')	
 elif(x==10):
-	print('ten')
+	print('Ten')
 else:
 	print('invalid')
