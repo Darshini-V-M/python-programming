@@ -5,6 +5,6 @@ for i in n:
 	else:
 		d=2
 if d==1:
-	print"yes"
+	print"Yes"
 else:	
-	print"no"
+	print"No"
